@@ -27,3 +27,8 @@ The project consists of **two pages**:
 - **Power BI Desktop** – Data modeling, DAX, and visualization
 - **Microsoft Excel** – Data cleaning and preprocessing
 
+## 📁 Dataset Note
+
+- 4 of the 5 dataset files (`food.xlsx`, `orders.xlsx`, `restaurant.xlsx`, `users.xlsx`) are uploaded in this repository.
+- Due to size limits, the `menu.xlsx` file is [hosted on Google Drive](https://docs.google.com/spreadsheets/d/1RkshYMaFIydy0aLHnWKRxAs6k2cX97zU/edit?usp=sharing&ouid=100807938831646748841&rtpof=true&sd=true).
+
